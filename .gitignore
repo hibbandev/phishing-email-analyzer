@@ -1,0 +1,24 @@
+# === Secrets ===
+.env
+
+# === Email samples & analysis output (SENSITIVE) ===
+data/
+reports/
+cache/
+
+# === Python ===
+__pycache__/
+*.pyc
+
+# === Virtual environment ===
+venv/
+.venv/
+
+# === Streamlit ===
+.streamlit/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+struktur.txt
