@@ -70,6 +70,18 @@ sudo apt install spamassassin spamc
 ``` bash
 pip install -r requirements.txt
 ```
+### (Optional) Virtual Environment
+
+It is recommended to use a Python virtual environment to avoid
+dependency conflicts:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+This step is optional but recommended for clean and reproducible setups.
 
 Minimal dependencies:
 
