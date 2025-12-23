@@ -1,4 +1,4 @@
-# 📧 Phishing Email Analyzer (SOC Portfolio)
+# 📧 Phishing Email Analyzer
 
 A practical **email phishing analysis tool** built with Python, designed
 to demonstrate **SOC / Blue Team** skills such as email forensics, spam
