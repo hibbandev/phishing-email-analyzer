@@ -1,7 +1,6 @@
 mail-parser
 requests
 python-dotenv
-spamassassin-client
 streamlit
 matplotlib
 pandas
